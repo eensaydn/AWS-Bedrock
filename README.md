@@ -500,9 +500,9 @@ in the Software without restriction...
 ## 👨‍💻 Author
 
 **Enes Aydin**
-- 🌐 GitHub: [@your-username](https://github.com/your-username)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 🌐 GitHub: [@your-username](https://github.com/eensaydn)
+- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/enesaydin00)
+- 📧 Email: eensaydn@icloud.com
 
 ---
 

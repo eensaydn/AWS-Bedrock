@@ -500,8 +500,8 @@ in the Software without restriction...
 ## 👨‍💻 Author
 
 **Enes Aydin**
-- 🌐 GitHub: [@your-username](https://github.com/eensaydn)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/enesaydin00)
+- 🌐 GitHub: https://github.com/eensaydn
+- 💼 LinkedIn: https://linkedin.com/in/enesaydin00
 - 📧 Email: eensaydn@icloud.com
 
 ---
